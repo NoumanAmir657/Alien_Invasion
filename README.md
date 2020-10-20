@@ -13,3 +13,5 @@ Shooting SPACE key.
 Pause 'P' Key.
 
 Quit using 'Q' key.
+
+For better experience use FullScrenn Settings.
