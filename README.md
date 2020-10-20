@@ -14,4 +14,4 @@ Pause 'P' Key.
 
 Quit using 'Q' key.
 
-For better experience use FullScrenn Settings.
+For better experience use FullScreen Settings.
